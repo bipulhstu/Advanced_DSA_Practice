@@ -48,6 +48,6 @@ public class PairSum1 {
         list.add(5);
         list.add(6);
 
-        System.out.println( pairSum2(list, 10));
+        System.out.println(pairSum2(list, 10));
     }
 }
